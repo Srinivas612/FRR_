@@ -1,0 +1,3 @@
+[submodule "FRR"]
+	path = FRR
+	url = https://github.com/FRRouting/frr
